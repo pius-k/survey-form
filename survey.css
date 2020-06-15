@@ -1,0 +1,22 @@
+.form-group {
+    margin: 10px;
+}
+body {
+    background-color: hsla(110, 80%, 56%, 0.3);
+    background-image: url(https://img.freepik.com/free-vector/fluorescent-compact-light-bulb-windmills-idea-business-concept_115739-600.jpg?size=626&ext=jpg);
+       
+}
+#container {
+    margin: auto;
+    max-width: 800px;
+    padding: 20px;
+    border-style: solid thick;
+    background-color: rgba(83, 8, 104, 0.5);
+    background-image: url(https://d346xxcyottdqx.cloudfront.net/wp-content/uploads/2016/02/renewable_energy_sources-e1551858601606.jpg);
+}
+#title {
+    display: block;
+     color: rgb(42, 14, 49);
+  text-align: center;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
